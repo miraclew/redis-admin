@@ -1,0 +1,1 @@
+{"lastid":4,"connections":{"3":{"name":"192.168.1.208","host":"192.168.1.208","port":"6379","id":3},"4":{"name":"58.215.56.145","host":"58.215.56.145","port":"9000","id":4}},"keyspace":"sys:listenpowerrank\nsys:impactpowerrank\nsys:todayactiveusers\nuserimpactpower:*\nuserlistenpower:*\nuserinfo:*"}
